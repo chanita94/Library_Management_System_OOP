@@ -1,23 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LibraryManagementSystem.Models
+﻿namespace LibraryManagementSystem.Models
 {
     internal class Item
     {
         public Item(string title, int year)
         {
-            ArgumentNullException.ThrowIfNull(title);
+            if (string.IsNullOrWhiteSpace(title))
+                throw new ArgumentException("Title cannot be empty.", nameof(title));//null,"", " "
             Title = title;
-            ArgumentOutOfRangeException.ThrowIfZero(year);
-            ArgumentOutOfRangeException.ThrowIfGreaterThan(year,2026);
+            if (year == 0 || year>DateTime.Now.Year)
+            {
+                throw new ArgumentOutOfRangeException(nameof(year),"Year must be between 1 and the current year.");
+            }
             Year = year;
         }
         public string Title { get; }//read-only after creation
         public int Year { get; }//read-only after creation
-        public bool IsAvailable { get; set; } = true;
+        public bool IsAvailable { get; private set; } = true;
     }
 }

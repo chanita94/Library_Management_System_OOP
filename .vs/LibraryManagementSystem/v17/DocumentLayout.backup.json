@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Chani\\OneDrive\\Desktop\\LibraryManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{752875BC-32E6-40D3-B50B-257E6368DB4F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\chani\\onedrive\\desktop\\librarymanagementsystem\\librarymanagementsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{752875BC-32E6-40D3-B50B-257E6368DB4F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{752875BC-32E6-40D3-B50B-257E6368DB4F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\chani\\onedrive\\desktop\\librarymanagementsystem\\librarymanagementsystem\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752875BC-32E6-40D3-B50B-257E6368DB4F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752875BC-32E6-40D3-B50B-257E6368DB4F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\chani\\onedrive\\desktop\\librarymanagementsystem\\librarymanagementsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752875BC-32E6-40D3-B50B-257E6368DB4F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752875BC-32E6-40D3-B50B-257E6368DB4F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\chani\\onedrive\\desktop\\librarymanagementsystem\\librarymanagementsystem\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752875BC-32E6-40D3-B50B-257E6368DB4F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{752875BC-32E6-40D3-B50B-257E6368DB4F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\chani\\onedrive\\desktop\\librarymanagementsystem\\librarymanagementsystem\\models\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{752875BC-32E6-40D3-B50B-257E6368DB4F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{752875BC-32E6-40D3-B50B-257E6368DB4F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\chani\\onedrive\\desktop\\librarymanagementsystem\\librarymanagementsystem\\models\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{752875BC-32E6-40D3-B50B-257E6368DB4F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{752875BC-32E6-40D3-B50B-257E6368DB4F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\chani\\onedrive\\desktop\\librarymanagementsystem\\librarymanagementsystem\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{752875BC-32E6-40D3-B50B-257E6368DB4F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752875BC-32E6-40D3-B50B-257E6368DB4F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\chani\\onedrive\\desktop\\librarymanagementsystem\\librarymanagementsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752875BC-32E6-40D3-B50B-257E6368DB4F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752875BC-32E6-40D3-B50B-257E6368DB4F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\chani\\onedrive\\desktop\\librarymanagementsystem\\librarymanagementsystem\\models\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752875BC-32E6-40D3-B50B-257E6368DB4F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{752875BC-32E6-40D3-B50B-257E6368DB4F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\chani\\onedrive\\desktop\\librarymanagementsystem\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +42,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Employee.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T21:06:47.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Member.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T21:02:06.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Person.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T20:59:14.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DVD.cs",
               "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\DVD.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\DVD.cs",
@@ -47,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Magazine.cs",
               "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Magazine.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Magazine.cs",
@@ -55,25 +106,24 @@
               "RelativeToolTip": "LibraryManagementSystem\\Models\\Magazine.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAIwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T20:20:56.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-02T20:20:56.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Item.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Item.cs",
               "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Item.cs",
               "RelativeToolTip": "LibraryManagementSystem\\Models\\Item.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-02T20:16:08.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Book.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Book.cs",
@@ -86,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
@@ -94,8 +144,7 @@
               "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T19:55:56.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-02T19:55:56.871Z"
             }
           ]
         }

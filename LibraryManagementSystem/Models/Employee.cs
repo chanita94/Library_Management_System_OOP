@@ -1,17 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LibraryManagementSystem.Models
+﻿namespace LibraryManagementSystem.Models
 {
     internal class Employee:Person
     {
-        public Employee(int employeeSsn, string firstName, string lastName):base(firstName, lastName)
+        public Employee(int employeeId, string firstName, string lastName):base(firstName, lastName)
         {
-            EmployeeSSN= employeeSsn;
+            if (employeeId <= 0)
+            {
+                throw new ArgumentOutOfRangeException(nameof(employeeId));
+            }
+            EmployeeId = employeeId;
         }
-        public int EmployeeSSN { get;}
+        public int EmployeeId { get;}
     }
 }
