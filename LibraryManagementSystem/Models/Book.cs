@@ -2,8 +2,8 @@
 {
     internal class Book:Item
     {
-        public Book(string author, string title, int year)
-            :base(title,year)
+        public Book(string author, int itemId, string title, int year)
+            :base(itemId,title,year)
         {
             if (string.IsNullOrWhiteSpace(author))
                 throw new ArgumentException("Author cannot be empty.", nameof(author));
